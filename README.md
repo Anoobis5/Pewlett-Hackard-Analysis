@@ -6,7 +6,7 @@ The purpose of this project, was to perfom an analysis on a large-scale collecti
 
 ## Results:
 
-* Our first task was to create a Retirement Titles table, that could hold all of the titles of current employees who were born between Jan 1, 1952 and Dec 31, 1955 .We needed to determine which employees are elegible for retirement based on age. However, shown in our table below, there are some duplicate names due to the fact that some employees have switched titles over the years.  See the table below:
+* Our first step was to create a Retirement Titles table, that could hold all of the titles of current employees who were born between Jan 1, 1952 and Dec 31, 1955 .We needed to determine which employees are elegible for retirement based on age. However, shown in our table below, there are some duplicate names due to the fact that some employees have switched titles over the years.  See the table below:
 ![retirement_titles](https://user-images.githubusercontent.com/84881187/126879678-5edf309c-bb3e-4164-ad08-227cff20ae2d.PNG)
 
 * So, in order to get a more concise and accurate depiction of elegible unique employees, we created a table using a **DISTINCT ON** statement to show the most recent title for employees of retirement age. Please reference the code for unique_titles and the table example below:
