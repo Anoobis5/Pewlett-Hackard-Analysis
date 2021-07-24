@@ -72,8 +72,6 @@ ON un.emp_no = de.emp_no
 LEFT JOIN departments AS du
 ON de.dept_no = du.dept_no;
 
---Check Department Retirement Elegibility Count
-
 SELECT COUNT(emp_no) AS emp_count, dept_name
 INTO retiring_dept_group
 FROM dept_unique_group
