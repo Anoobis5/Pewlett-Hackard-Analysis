@@ -23,11 +23,8 @@ The purpose of this project, was to perfom an analysis on a large-scale collecti
 
 
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Our task was to help Pewlett-Hackard, by analyzing their employee database to determine how many members of their staff are elegible for retirement to prepare for the "silver tsunami" to come. Our analysis shows that Pewlett-Hackard stand to lose a considerable amount of their workforce to retirement. They will need to potentially fill 90,398 roles, with 57,668 of those positions being Senior position, 2 in Managerial positions, and 4502 Technique Leaders. When we analyzed how many of these postential retirees were elgible for the Mentorship Program that would help the next generation of Pewlett-Hackard employees groow, we found that only 1,549 of those emploees qualify for the program. The results of our analysis show that a considerable amount of employees will potentially be retiring, with only 1,549 (1.7%) of the retirees being able to apply for the Mentorship Program. Pewlett-Hackard will need to compensate for the potential "silver tsunami" in their work force. Our data shows that a significant number of the employees retiring will be Senior Staff and Senior Engineers. Of those elegible for retirement and elegible for the Mentorship Program, most of the employees elegible for the Mentoship program are Senior Staff members, followed by EngineersPlease see below for a table and the query used to analyze the Mentorship Elegibility spread across Employee Titles:
+Our task was to help Pewlett-Hackard, by analyzing their employee database to determine how many members of their staff are elegible for retirement to prepare for the "silver tsunami" to come. Our analysis shows that Pewlett-Hackard stand to lose a considerable amount of their workforce to retirement. They will need to potentially fill 90,398 roles, with 57,668 of those positions being Senior position, 2 in Managerial positions, and 4502 Technique Leaders.  The results of our analysis show that a considerable amount of employees will potentially be retiring, with only 1,549 (1.7%) of the retirees being able to apply for the Mentorship Program to help train the next generation of employees. Of those elegible for retirement and elegible for the Mentorship Program, most of the employees elegible for the Mentoship program are Senior Staff members, followed by Engineers. Please see below for a table and the query used to analyze the Mentorship Elegibility spread across Employee Titles:
 
 
 
@@ -46,6 +43,3 @@ Another variable Pewlett-Hackard will need to consider is not just what kind of 
 Pewlwett-Hackard will soon face a "silver tsunami" leaving them with a potential 30% reduction in their total workforce, with only about 1.7% of those elegible for retiring elegible for the Mentorship Program that will traing the next generation of employees. They will need to allocate resources to find suitabale prompotions within with the help of the mentors so continue to see growth within the company. It is advised that Pewlett-Hackard concentrate their efforts in helping regrow their Development and Production departments, as well as their Sales teams. 
 
 
-
-
-TOOK LIBERTY OF LOOKING ACROSS DEP
